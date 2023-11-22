@@ -5,3 +5,5 @@ The data was obtained from Department of Commerce, Government of India, but it w
 As the notebook provided is of the .twbx format, it can be directly executed on any machine, the dataset is included in the workbbok.
 Although the data is available for over ten years(2010-2021) only the recent data was used in the light of keeping the project lightweight.
 Any additional analysis required can be done directly from the Dashboard using the action filters.
+![image](https://github.com/vybhav-ibr/Trade-data-visualization/assets/119930636/10149c05-3b9b-4484-9629-0aa5346c8a81)
+Attached is a snapshot of the dashboard built
